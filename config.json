@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadersecrypt",
+        "uuid": 10754969,
+        "checksum": "pv36b"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
